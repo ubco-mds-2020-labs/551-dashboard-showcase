@@ -13,7 +13,7 @@
     "dashboard-project-group14": {
         "description": "The Board Game Data Explorer allows a user to view board game trends and top games based on user ratings as well as explore games in a 3D graph.",
         "homepage": "https://boardgame-dashboard-data551.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-group14/main/images/dashboard_sketch_1.PNG",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-group14/main/images/dashboard_sketch_1.PNG",
         "topics": [
             "board-games",
             "python",
@@ -25,7 +25,7 @@
     "dashboard-project---r-games-dashboard": {
         "description": "Video Game Dashboard containing sales data on 16,000 video games released from 1980 to 2017 across various genres, regions and platforms. Our interactive dashboard can be accessed with Heroku link below.",
         "homepage": "https://game-dashboard-r.herokuapp.com",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project---r-games-dashboard/master/doc/AppSketch.jpg",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project---r-games-dashboard/master/doc/AppSketch.jpg",
         "topics": [
             "r",
             "video-game",
@@ -41,19 +41,19 @@
     "WineVision": {
         "description": "dashboard-project-data551_group8 created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/WineVision/main/app_sketch.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/WineVision/main/app_sketch.png",
         "topics": []
     },
     "WineVision-R-group8": {
         "description": "dashboard-project---r-data551_group8 created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/WineVision-R-group8/master/information.jpg",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/WineVision-R-group8/master/information.jpg",
         "topics": []
     },
     "dashboard-project-data551_group9": {
         "description": "Dashboard for HR consulting & Marketing",
         "homepage": "https://hr-marketing-analytics.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_group9/main/data551_sketch.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-data551_group9/main/data551_sketch.png",
         "topics": [
             "dropdown",
             "radiobutton",
@@ -67,7 +67,7 @@
     "dashboard-project-data551_group10": {
         "description": "We are helping a Portuguese bank to find potential term deposit subscribers and narrow down their target customers.https://bank-dash-data.herokuapp.com",
         "homepage": "",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_group10/main/sketch.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-data551_group10/main/sketch.png",
         "topics": [
             "predictions",
             "portuguese-bank",
@@ -90,19 +90,19 @@
     "dashboard-project-cryptocurrency_db": {
         "description": "dashboard-project-cryptocurrency_db created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-cryptocurrency_db/main/doc/Cyrpto_template.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-cryptocurrency_db/main/doc/Cyrpto_template.png",
         "topics": []
     },
     "dashboard-project---r-cryptocurrency_db": {
         "description": "dashboard-project---r-cryptocurrency_db created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project---r-cryptocurrency_db/master/doc/Cyrpto_template.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project---r-cryptocurrency_db/master/doc/Cyrpto_template.png",
         "topics": []
     },
     "covid_vaccine_dashboard_R": {
         "description": "USA & Canada COVID-19 Vaccination Rollout Dashboard - Implementation in R",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/covid_vaccine_dashboard_R/master/dashboard_screenshot.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/covid_vaccine_dashboard_R/master/dashboard_screenshot.png",
         "topics": []
     },
     "dashboard-project---r-551-pythondash-g1-met": {
@@ -114,7 +114,7 @@
     "Bank-R-Group10": {
         "description": "dashboard-project---r-data551_group10 created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/Bank-R-Group10/main/sketch.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/Bank-R-Group10/main/sketch.png",
         "topics": []
     },
     "dashboard-project---r-nba-dashboard": {
@@ -141,31 +141,31 @@
     "dashboard-project-data_551_group15": {
         "description": "Canada GDP - dashboard-project-data_551_group15",
         "homepage": "",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data_551_group15/main/doc/sketch.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-data_551_group15/main/doc/sketch.png",
         "topics": []
     },
     "nba_analytics": {
         "description": "Dashboard link : https://nba-analytics-app.herokuapp.com/",
         "homepage": "",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/nba_analytics/main/Dashboard_prototype.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/nba_analytics/main/Dashboard_prototype.png",
         "topics": []
     },
     "games-dashboard-project": {
         "description": "dashboard-project-games-dashboard created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/games-dashboard-project/main/AppSketch.jpg",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/games-dashboard-project/main/AppSketch.jpg",
         "topics": []
     },
     "dashboard-project-data551_g5": {
         "description": "dashboard-project-data551_g5 created by GitHub Classroom",
         "homepage": "",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_g5/main/images/DASHBOARD_SKETCH.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-data551_g5/main/images/DASHBOARD_SKETCH.png",
         "topics": []
     },
     "dashboard-project-551-pythondash-g1-met": {
         "description": "dashboard-project-551-pythondash-g1-met created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-551-pythondash-g1-met/main/Corona_dashboard_proposal_imagepsd.png",
+        "image_url": "https://raw.githubusercontent.com/ubco-mds-2020-labs/dashboard-project-551-pythondash-g1-met/main/Corona_dashboard_proposal_imagepsd.png",
         "topics": []
     }
 }

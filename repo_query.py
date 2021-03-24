@@ -62,7 +62,7 @@ def find_img_path(repo):
     # If any gifs are found in the repo return the first one
     gif_paths = [f for f in repo_files if Path(f.lower()).suffix == '.gif']
     if gif_paths:
-        return f'https://raw.githubusercontent.com/UBC-MDS/{repo.name}/{repo.default_branch}/{gif_paths[0]}'
+        return f'https://raw.githubusercontent.com/ubco-mds-2020-labs/{repo.name}/{repo.default_branch}/{gif_paths[0]}'
         
     # If no gifs are found search for an image instead.
     # Since there might be unlreated images,
@@ -75,7 +75,7 @@ def find_img_path(repo):
                 if img_ext in file_exts:
                     # Gets the first index if there are multilple matches
                     img_path = contents[file_exts.index(img_ext)].path 
-                    return f'https://raw.githubusercontent.com/UBC-MDS/{repo.name}/{repo.default_branch}/{img_path}'
+                    return f'https://raw.githubusercontent.com/ubco-mds-2020-labs/{repo.name}/{repo.default_branch}/{img_path}'
         except github.GithubException:
             # Gracefuly skip when subdir is not found
             pass
