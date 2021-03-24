@@ -14,13 +14,13 @@ from dash.dependencies import Input, Output
 with open('repos.json', 'r') as f:
     data=f.read()
 repos = json.loads(data)
-# Override a few gifs
-# Groups request
-repos['MDS_Winery_Dashboard']['image_url'] = 'https://media.giphy.com/media/YUCcfHOqLzdqb4DroP/giphy.gif'
-# Has multiple gifs
-repos['DSCI532-Group16-R']['image_url'] = 'https://raw.githubusercontent.com/UBC-MDS/DSCI532-Group16-R/main/images/app_showcase_demo_lo_res.gif'
-# Didn't commmit gif, just linked the one in the issue
-repos['Movie_Selection']['image_url'] = 'https://user-images.githubusercontent.com/4560057/107170262-bc3a6b00-6974-11eb-903c-50db6590bba5.gif'
+# # Override a few gifs
+# # Groups request
+# repos['MDS_Winery_Dashboard']['image_url'] = 'https://media.giphy.com/media/YUCcfHOqLzdqb4DroP/giphy.gif'
+# # Has multiple gifs
+# repos['DSCI532-Group16-R']['image_url'] = 'https://raw.githubusercontent.com/UBC-MDS/DSCI532-Group16-R/main/images/app_showcase_demo_lo_res.gif'
+# # Didn't commmit gif, just linked the one in the issue
+# repos['Movie_Selection']['image_url'] = 'https://user-images.githubusercontent.com/4560057/107170262-bc3a6b00-6974-11eb-903c-50db6590bba5.gif'
 
 flat_topic_list = [i for repo in repos for i in repos[repo]['topics']]
 topics_with_counts = dict(sorted(Counter(flat_topic_list).items(), key=lambda item: item[1], reverse=True))
@@ -39,7 +39,7 @@ app.layout = dbc.Container([
             dbc.Col([
                 dbc.Jumbotron([
                     html.P(
-                        html.A('FiveThreeTwo', href='https://fivethirtyeight.com/', style={'color': 'white', 'text-decoration': 'none'}),
+                        html.A('FiveFiftyOne', href='https://fivethirtyeight.com/', style={'color': 'white', 'text-decoration': 'none'}),
                         style={
                             'text-align': 'center',
                             'color': 'white',
@@ -80,7 +80,8 @@ app.layout = dbc.Container([
         html.Br(),
         html.Hr(style={'width': '50%', 'margin-left': '0px'}),
         html.P([f'''
-        This app showcaes the impressive dasboards created during a 4-week course in Dash for MDS DSCI-532 at UBC.
+        This app showcaes the impressive dasboards created during a 4-week course in Dash for MDS Okanagan DSCI-551 at UBCO.
+        Credits to the script goes to Joel Ostblom.
         The displayed dashboards are filtered by the intersection (AND) of the selected tags.
         The count for each tag is updated when filtering to reflect only the visible dashboards.
         This dashboard looks best in a full width window and was last updated on {datetime.now().strftime('%b %d, %Y')}.''',
