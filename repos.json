@@ -1,377 +1,171 @@
 {
-    "obesity-explorer-R": {
-        "description": "The Obesity Explorer Dashboard (a UBC-MDS Project by Group #1)",
-        "homepage": "https://obesity-explorer-r.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/obesity-explorer-R/main/doc/img/dashboard.gif",
+    "covid_vaccine_dashboard": {
+        "description": "USA & Canada COVID-19 Vaccination Rollout Dashboard",
+        "homepage": "",
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
         "topics": [
-            "vizualisation",
-            "obesity",
-            "scatterplot",
-            "barplot",
-            "trendline",
-            "map",
-            "trends",
-            "association",
-            "r",
-            "heroku"
+            "covid-19",
+            "vaccine-tracker",
+            "canada-covid-19",
+            "us-covid19"
         ]
     },
-    "dsci-532_group_02": {
-        "description": "Foundation Shades Across the Globe App. Cosmetics data visualization dashboard built with Dash for studying the best selling brands across US, Japan, Indian, and Nigeria.",
-        "homepage": "https://foundation-product-dashboard.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci-532_group_02/main/data/gif_tutorials/filter_by_country.gif",
+    "dashboard-project-group14": {
+        "description": "The Board Game Data Explorer allows a user to view board game trends and top games based on user ratings as well as explore games in a 3D graph.",
+        "homepage": "https://boardgame-dashboard-data551.herokuapp.com/",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-group14/main/images/dashboard_sketch_1.PNG",
         "topics": [
-            "makeup",
-            "foundations",
-            "cosmetics",
+            "board-games",
             "python",
-            "plotly",
-            "webapp",
-            "dropdown",
-            "radiobutton",
-            "slider",
+            "3d-graphics",
             "barchart",
-            "select",
-            "hover"
+            "scatterplot"
         ]
     },
-    "dsci532-group3-R": {
-        "description": "DSCI532 Data Visualization 2, Group 3, R version. COVID-19 Visualization",
-        "homepage": "https://covid-19-mds-532-group3-final.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci532-group3-R/master/images/FinalappR.png",
+    "dashboard-project---r-games-dashboard": {
+        "description": "Video Game Dashboard containing sales data on 16,000 video games released from 1980 to 2017 across various genres, regions and platforms. Our interactive dashboard can be accessed with Heroku link below.",
+        "homepage": "https://game-dashboard-r.herokuapp.com",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project---r-games-dashboard/master/doc/AppSketch.jpg",
         "topics": [
-            "covid19",
-            "map",
-            "select",
-            "dropdown",
-            "hover",
-            "lineplot",
-            "daterangepicker",
-            "radiobutton"
-        ]
-    },
-    "dsci_532_group_04_R": {
-        "description": "The Life Expectancy Indicator Dashboard visualizes a dataset consisting of survey questions and responses about various aspects of life expectancy for countries all over the world.",
-        "homepage": "https://life-expectancy-indicator-app.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci_532_group_04_R/main/figures/app.gif",
-        "topics": [
-            "dashboard-widget",
-            "ggplotly",
-            "ggplot2",
-            "health",
-            "life-expectancy",
-            "globaldatabase",
-            "dropdown",
-            "radiobutton",
-            "slider",
-            "map",
-            "linegraph",
-            "scatterplot",
-            "hover"
-        ]
-    },
-    "dash_of_spice-R": {
-        "description": "The Happy Navvy dashboard aims to provide an easy-to-use application to individuals and families looking to immigrate to a new country that best aligns with their values. The dashboard utilizes a user's key preferences to suggest countries that would provide maximum happiness if they immigrated there.",
-        "homepage": "https://happy-navvy-r.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dash_of_spice-R/main/gifception2.gif",
-        "topics": [
-            "map",
-            "dropdown",
-            "yearly-trends",
+            "r",
+            "video-game",
             "barplot",
-            "table",
-            "select",
-            "slider"
-        ]
-    },
-    "MDS_Winery_Dashboard": {
-        "description": "MDS-Winery Dashboard for American wines",
-        "homepage": "https://winery-mds-2021.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/MDS_Winery_Dashboard/main/107161687-3528cb00-6953-11eb-8a4d-32c3b9531971.gif",
-        "topics": [
-            "plotly",
+            "areaplot",
+            "scatterplot",
+            "hover",
             "dropdown",
             "slider",
-            "widget",
-            "map",
-            "barplot"
+            "filters"
         ]
     },
-    "Movie_Selection": {
-        "description": "An app to select movies for streaming services",
-        "homepage": "https://movie-selection-app.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/Movie_Selection/main/docs/images/app_demo.gif",
-        "topics": [
-            "select",
-            "range-slider",
-            "dropdown",
-            "scatterplot",
-            "boxplots",
-            "hover",
-            "summary-indicator",
-            "studios",
-            "movies",
-            "box-office",
-            "voting",
-            "genres",
-            "slider"
-        ]
-    },
-    "dsci-532_group08": {
-        "description": "Welcome to the mental health in tech dashboard. This dashboard is created to help identify main factors that associate with mental health conditions, and help the government and organizations understand why supporting mental health is essential.",
-        "homepage": "https://dsci532-viz-g8.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci-532_group08/main/img/dashboard-demo.gif",
-        "topics": [
-            "mental-health",
-            "ubc",
-            "mds",
-            "tech",
-            "dsci532",
-            "wellness"
-        ]
-    },
-    "career_deciscion_aid-r": {
-        "description": null,
+    "WineVision": {
+        "description": "dashboard-project-data551_group8 created by GitHub Classroom",
         "homepage": null,
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/career_deciscion_aid-r/master/figures/dashboard_final_version.png",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/WineVision/main/app_sketch.png",
         "topics": []
     },
-    "happy-dash": {
-        "description": "An interactive exploration of the World Happiness Report",
-        "homepage": "https://happydash.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/happy-dash/main/visuals/happy_dash_demo.gif",
-        "topics": [
-            "choropleth",
-            "loading",
-            "bootstrap"
-        ]
+    "WineVision-R-group8": {
+        "description": "dashboard-project---r-data551_group8 created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/WineVision-R-group8/master/information.jpg",
+        "topics": []
     },
-    "532-group11": {
-        "description": "Movie Production Planning Dashboard",
-        "homepage": "https://moveymoney.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/532-group11/main/img/AppSketch_final.png",
+    "dashboard-project-data551_group9": {
+        "description": "Dashboard for HR consulting & Marketing",
+        "homepage": "https://hr-marketing-analytics.herokuapp.com/",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_group9/main/data551_sketch.png",
         "topics": [
-            "lineplot",
-            "loess-smoothers",
-            "datatables",
-            "heatmap",
             "dropdown",
-            "modal",
-            "range-slider",
-            "slider"
-        ]
-    },
-    "DSCI_532_Group_12": {
-        "description": "This repository is used for creating a dashboard visualizing Covid-19 statistics at both global and country scales. The dashboard is implemented using Python and Dash library. The data set is from COVID-19 Data Repository provided by Johns Hopkins University.",
-        "homepage": "https://covid-data-portal.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI_532_Group_12/main/docs/images/dash-demo.gif",
-        "topics": [
-            "time-series",
-            "covid-19",
-            "johns-hopkins-csse",
-            "python",
-            "map",
-            "dropdown",
-            "barplot",
-            "lineplot"
-        ]
-    },
-    "DSCI_532_Group13_Crime": {
-        "description": "A Crime Statistics dashboard to visualise the trend of crime rates in America ",
-        "homepage": "https://crime-dashboard-group13.herokuapp.com",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI_532_Group13_Crime/main/img/Screenshot 2021-02-08 at 7.38.34 AM.gif",
-        "topics": [
-            "treemap",
-            "python",
-            "crime-data",
-            "crime-analysis"
-        ]
-    },
-    "532_Dashboard_Project_Group_14": {
-        "description": "This app allows users to explore key factors for employee attrition. Survey data can be filtered by gender, age, and department.",
-        "homepage": "https://employee-attrition-dashboard.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/532_Dashboard_Project_Group_14/main/img/dashboard_demo.gif",
-        "topics": [
-            "python",
-            "employee-attrition",
-            "barplot",
-            "slider",
-            "dropdown"
-        ]
-    },
-    "DSCI_532_Group15_wine": {
-        "description": "A dashboard to help you find the wine reviews",
-        "homepage": "https://winevalley.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI_532_Group15_wine/main/image/app_demo_milestone_2.gif",
-        "topics": [
-            "scatterplot",
-            "map",
-            "barchart",
-            "table",
-            "dropdown",
-            "slider"
-        ]
-    },
-    "DSCI532-Group16-R": {
-        "description": "Mental Health Awareness Dashboard using survey data from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the workplace.",
-        "homepage": "https://it-mental-health-dash-r.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI532-Group16-R/main/images/app_showcase_demo.gif",
-        "topics": [
-            "r",
-            "plotly",
-            "tidyverse",
-            "mental-health-awareness",
-            "map",
-            "hover",
-            "barplot"
-        ]
-    },
-    "DSCI532_Group17": {
-        "description": "A dashboard that provides interesting statistics on FIFA-19 soccer players worldwide. ",
-        "homepage": "https://fifa19dashboard-0.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI532_Group17/main/img/DEMO.gif",
-        "topics": [
-            "fifa19",
-            "worldmap",
-            "table",
-            "dropdown",
-            "histogram",
-            "tabs",
-            "altair-8800",
-            "scatterplot",
-            "slider"
-        ]
-    },
-    "DSCI_532_Group18_Allstars": {
-        "description": "Country Happiness Visualization App",
-        "homepage": "https://immigration-dash-app.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI_532_Group18_Allstars/main/images/happiness_app.gif",
-        "topics": [
-            "happiness",
-            "immigration",
-            "map",
-            "hover",
-            "barplot",
-            "connected-charts",
-            "datatable",
-            "country",
-            "world"
-        ]
-    },
-    "Mental-Health-in-Tech-Dashboard": {
-        "description": "The Mental Health in Tech Dashboard visualizes a dataset consisting of survey questions and responses about various aspects of the mental health of tech workers. ",
-        "homepage": "https://mentalhealth-in-tech.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/Mental-Health-in-Tech-Dashboard/main/src/assets/img/ezgif.com-gif-maker.gif",
-        "topics": [
-            "mental-health",
-            "hr",
-            "tec",
-            "plotly",
-            "altair",
-            "barplot",
-            "donut-chart",
-            "dropdown",
-            "slider"
-        ]
-    },
-    "dsci-532_group-20": {
-        "description": "An app to visualize the key performance metrics of Super-Hotels in Portugal from 2015 to 2017",
-        "homepage": "https://super-hotels.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci-532_group-20/main/results/img/hotel.png",
-        "topics": [
-            "select",
-            "dropdown",
-            "lineplot",
             "radiobutton",
-            "hover-effects",
-            "bargraphs",
-            "summary-statistics"
-        ]
-    },
-    "532-Group21": {
-        "description": "The app has a single main page with three visualizations that depend on the filters selected. Most importantly, the top left contains a filter which selects the statistic of interest and this is the main filter on which all of the visuals are built and includes life expectancy, child mortality, education ratio, population density and CO2 emissions.",
-        "homepage": "https://dsci532-gapexpresser.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/532-Group21/main/imgs/GapExpresser.gif",
-        "topics": [
-            "map",
-            "slider",
-            "dropdown",
-            "barplot",
-            "lineplot",
-            "hover",
-            "gapminder"
-        ]
-    },
-    "532_Group_22": {
-        "description": "The Criminality in Canada: Fighting Anecdotes with Data app allows users to explore Canadian crime data and trends by location. ",
-        "homepage": "https://canadian-crime.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/532_Group_22/main/canadian_crime_app.gif",
-        "topics": [
-            "leaflet",
-            "choropleth",
-            "barplot",
-            "time-series",
-            "crime-statistics",
-            "slider",
-            "dropdown",
-            "tabs",
-            "multiselect-dropdown",
-            "python",
-            "map"
-        ]
-    },
-    "dsci_532_group23": {
-        "description": "An app that shows world energy consumption and appeals to the public to save energy.",
-        "homepage": "https://world-energy-consumption-app.herokuapp.com",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci_532_group23/main/world_energy_consumption_demo.gif",
-        "topics": [
-            "map",
-            "lineplot",
-            "barplot",
-            "plotly",
-            "python",
-            "slider",
-            "dropdown"
-        ]
-    },
-    "dsci_532_group_24": {
-        "description": "A dashboard for children diseases and mortality in Africa, 1990 - 2015",
-        "homepage": "https://african-children-health-app.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dsci_532_group_24/main/app-final-snapshot.gif",
-        "topics": [
-            "map",
-            "lineplot",
+            "range-slider",
             "barchart",
-            "select",
-            "hover",
-            "slider",
-            "dropdown",
-            "heroku-deployment"
+            "density-functions",
+            "histogram",
+            "slider"
         ]
     },
-    "mds532_viz_group25": {
-        "description": "U.S city violent crime visualization",
-        "homepage": "https://mds-crimeviz.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/mds532_viz_group25/main/demo.gif",
+    "dashboard-project-data551_group10": {
+        "description": "We are helping a Portuguese bank to find potential term deposit subscribers and narrow down their target customers.https://bank-dash-data.herokuapp.com",
+        "homepage": "",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_group10/main/sketch.png",
         "topics": [
-            "map",
-            "rangeslider",
-            "dropdown",
-            "lineplot",
-            "barplot",
-            "tooltips"
+            "predictions",
+            "portuguese-bank",
+            "campaign",
+            "term-deposit"
         ]
     },
-    "DSCI_532_group26": {
-        "description": "An app to report survey on mental health in the tech workplace.  ",
-        "homepage": "https://mental-health-dashboard-ubc.herokuapp.com/",
-        "image_url": "https://raw.githubusercontent.com/UBC-MDS/DSCI_532_group26/main/imgs/tab_1.jpg",
+    "dashboard-project---r-data_551_group15": {
+        "description": "dashboard-project---r-data_551_group15 created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
+        "topics": []
+    },
+    "dashboard-project---r-data551_g5": {
+        "description": "dashboard-project---r-data551_g5 created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
+        "topics": []
+    },
+    "dashboard-project-cryptocurrency_db": {
+        "description": "dashboard-project-cryptocurrency_db created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-cryptocurrency_db/main/doc/Cyrpto_template.png",
+        "topics": []
+    },
+    "dashboard-project---r-cryptocurrency_db": {
+        "description": "dashboard-project---r-cryptocurrency_db created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project---r-cryptocurrency_db/master/doc/Cyrpto_template.png",
+        "topics": []
+    },
+    "covid_vaccine_dashboard_R": {
+        "description": "USA & Canada COVID-19 Vaccination Rollout Dashboard - Implementation in R",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/covid_vaccine_dashboard_R/master/dashboard_screenshot.png",
+        "topics": []
+    },
+    "dashboard-project---r-551-pythondash-g1-met": {
+        "description": "dashboard-project---r-551-pythondash-g1-met created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
+        "topics": []
+    },
+    "Bank-R-Group10": {
+        "description": "dashboard-project---r-data551_group10 created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/Bank-R-Group10/main/sketch.png",
+        "topics": []
+    },
+    "dashboard-project---r-nba-dashboard": {
+        "description": "Dashboard link : http://nba-dashboard-r.herokuapp.com/",
+        "homepage": "",
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
+        "topics": []
+    },
+    "dashboard-project---r-group14": {
+        "description": "The Board Game Analysis Dashboard allows a user to explore trends in board game categories, mechanics, and publishers as well as find the top rated games based on selections.",
+        "homepage": "https://boardgame-dashbard-r.herokuapp.com/",
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
         "topics": [
-            "python",
-            "barplot",
-            "heroku",
-            "dropdown",
-            "select"
+            "board-games",
+            "r"
         ]
+    },
+    "dashboard-project---r-data551_group9": {
+        "description": "dashboard-project---r-data551_group9 created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://www.probytes.net/wp-content/uploads/2018/10/dash-logo-300.png",
+        "topics": []
+    },
+    "dashboard-project-data_551_group15": {
+        "description": "Canada GDP - dashboard-project-data_551_group15",
+        "homepage": "",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data_551_group15/main/doc/sketch.png",
+        "topics": []
+    },
+    "nba_analytics": {
+        "description": "Dashboard link : https://nba-analytics-app.herokuapp.com/",
+        "homepage": "",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/nba_analytics/main/Dashboard_prototype.png",
+        "topics": []
+    },
+    "games-dashboard-project": {
+        "description": "dashboard-project-games-dashboard created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/games-dashboard-project/main/AppSketch.jpg",
+        "topics": []
+    },
+    "dashboard-project-data551_g5": {
+        "description": "dashboard-project-data551_g5 created by GitHub Classroom",
+        "homepage": "",
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-data551_g5/main/images/DASHBOARD_SKETCH.png",
+        "topics": []
+    },
+    "dashboard-project-551-pythondash-g1-met": {
+        "description": "dashboard-project-551-pythondash-g1-met created by GitHub Classroom",
+        "homepage": null,
+        "image_url": "https://raw.githubusercontent.com/UBC-MDS/dashboard-project-551-pythondash-g1-met/main/Corona_dashboard_proposal_imagepsd.png",
+        "topics": []
     }
 }

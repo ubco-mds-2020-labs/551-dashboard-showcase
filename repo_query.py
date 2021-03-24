@@ -36,7 +36,7 @@ repo_names = [
 
 def main():
     for repo_name in repo_names:
-        repo = g.get_repo('UBC-MDS/' + repo_name)
+        repo = g.get_repo('ubco-mds-2020-labs/' + repo_name)
         repos[repo_name]['description'] = repo.description
         repos[repo_name]['homepage'] = repo.homepage
         repos[repo_name]['image_url'] = find_img_path(repo)
